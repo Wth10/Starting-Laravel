@@ -1,14 +1,14 @@
-<p align="center"><a href="#" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="#" target="_blank"><a><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 INSTALANDO O LARAVEL E AUTENTICAÇÃO DE USUARIO COM O USO DO **BREEZE**, ABAIXO SÃO OS PROGRAMAS ÚTILIZADOS E NECESSARIOS PARA O SEU PROJETO.
 
 <br>
 
-_Node Js:_ [LINK](https://nodejs.org/en/) Sempre Instale a versão _LTS_
+_[Node Js](https://nodejs.org/en/)_ Instale a versão _LTS_
 
-_Composer:_ [LINK](https://getcomposer.org/)
+_[Composer](https://getcomposer.org/)_
 
-_Laravel:_ [LINK](https://laravel.com/docs/8.x#installation-via-composer)
+_[Laravel](https://laravel.com/docs/8.x#installation-via-composer)_
 
 <br>
 
